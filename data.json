@@ -1,0 +1,1 @@
+{"board": [[2, 1, 1, 1], [4, 2, 1, 1], [16, 4, 1, 1], [32, 64, 2048, 4096]], "undo_board": [[2, 1, 1, 1], [2, 2, 1, 1], [16, 4, 1, 1], [32, 64, 2048, 4096]], "score": 64904, "undo_score": 64900, "high_score": 64904, "can_undo": true, "made_first_move": true, "game_won": true, "game_lost": false}
